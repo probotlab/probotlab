@@ -24,6 +24,9 @@ https://www.youtube.com/watch?v=J04OLFSgSO8&ab_channel=probotlab
 
 ### [Autonomous Vehicle Design And Control Using Realtime Image Analysis, Motor Rotation Data And Network Communication](https://drive.google.com/file/d/1BqgtaRk2AwEl4aWSuuwqvTNCM9sc2x07/view?usp=sharing)
 https://drive.google.com/file/d/1BqgtaRk2AwEl4aWSuuwqvTNCM9sc2x07/view?usp=sharing
+- **Abstract**: Built a vehicle which follows arrows placed in its pathway and returning back to initial location without requiring arrows
+- **Technologies**: Open CV, Python, C
+- **Highlights**: Completely autonomous and has a centimeter precision
 
 
 ## ⏰ Frquently Used Languages and Tools
