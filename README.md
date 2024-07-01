@@ -1,46 +1,24 @@
-# Hi there, I'm Muhammad Aqib Hussain 👋
+![MasterHead](https://drive.google.com/uc?export=view&id=1pnB36bejx4mfrvl5tm6ayMUoylWAUHDK)
+<h1 align="center">Hi 👋, I'm Muhammad Aqib Hussain</h1>
+<h3 align="center">Im a Vehicle Engineering Bachelors student and a robotics and AI enthusiast</h3>
 
-### Welcome to my GitHub profile! I'm a passionate robotics engineer with a keen interest in extracting insights from data and creating impactful visualizations.
+- 🌱 I’m currently learning **advanced Artificial Intelligence**
 
-## 🔧 Technologies & Tools
+- 📝 I regularly write articles on [https://probotlab.org/](https://probotlab.org/)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+- 💬 Ask me about **Robotics and AI**
 
-## 📈 Projects
+- 📫 How to reach me **muhammadaqibhussain01@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad aqib hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad aqib hussain" height="30" width="40" /></a>
+<a href="https://fb.com/probotlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="probotlab" height="30" width="40" /></a>
+<a href="https://instagram.com/probotlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="probotlab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/probotlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="probotlab" height="30" width="40" /></a>
+</p>
 
-### [Project 1: Sales Data Analysis](https://github.com/Abdulahkenneh/project1)
-- **Description**: Analyzed sales data to identify trends and patterns.
-- **Technologies**: Python, Pandas, Matplotlib
-- **Highlights**: Built interactive dashboards and generated actionable insights.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### [Project 2: Customer Segmentation](https://github.com/Abdulahkenneh/project2)
-- **Description**: Performed customer segmentation using clustering techniques.
-- **Technologies**: R, ggplot2
-- **Highlights**: Improved marketing strategies by identifying key customer segments.
-
-### [Project 3: Financial Forecasting](https://github.com/Abdulahkenneh/project3)
-- **Description**: Forecasted financial metrics using time series analysis.
-- **Technologies**: Python, statsmodels
-- **Highlights**: Increased forecasting accuracy by 15%.
-
-## 📝 Blog Posts
-- [How to Perform EDA in Python](https://yourblog.com/eda-python)
-- [Introduction to Machine Learning](https://yourblog.com/ml-intro)
-- [Data Visualization Best Practices](https://yourblog.com/data-viz-best-practices)
-
-## 📫 How to reach me
-- LinkedIn: [My LinkedIn Profile](https://inkedin.com/in/abdulah-mamadee-kenneh-399023175/)
-- Portfolio: [My Personal Website](https://www.dataskillacademy.com/user-pofolio/1/))
-- Email: (mailto:muhammadaqibhussain01@gmail.com)
-
-## 🌱 Currently Learning
-- Advanced Machine Learning techniques
-- Deep Learning with TensorFlow
-
-## 🤝 Let's connect!
-I'm always open to collaborating on projects and learning new things. Feel free to reach out!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=probotlab&show_icons=true&locale=en&layout=compact" alt="probotlab" /></p>
